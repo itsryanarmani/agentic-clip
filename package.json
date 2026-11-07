@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-clip",
+  "mcpName": "io.github.itsryanarmani/agentic-clip",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
