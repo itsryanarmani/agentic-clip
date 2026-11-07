@@ -10,6 +10,6 @@ Keywords: short-video, remotion, reels, agentic-suite, claude-code, codex, cli, 
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-clip
-- Core contract: https://github.com/pooriaarab/agentic-clip/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-clip
+- Core contract: https://github.com/itsryanarmani/agentic-clip/blob/main/docs/agentic-core.md
 - License: MIT

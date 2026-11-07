@@ -134,7 +134,7 @@ The package does not provide a managed Worker deployment.
 ## Status
 
 Version 0.1.0 is an early release. APIs and vendor mappings can change before 1.0.
-Use [GitHub issues](https://github.com/pooriaarab/agentic-clip/issues) for support. Public case studies are not yet published in this repository.
+Use [GitHub issues](https://github.com/itsryanarmani/agentic-clip/issues) for support. Public case studies are not yet published in this repository.
 
 ## FAQ
 
@@ -176,7 +176,7 @@ agentic-clip stores render cost records in process memory. Vendor invoices and e
 
 ## Contributing
 
-Follow the [fleet contribution guide](https://github.com/pooriaarab/.github/blob/main/CONTRIBUTING.md).
+Follow the [fleet contribution guide](https://github.com/itsryanarmani/.github/blob/main/CONTRIBUTING.md).
 
 ## License
 
